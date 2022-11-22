@@ -1,0 +1,1 @@
+# Slide-Quality-Assesment-with-Semantic-Segmentation
